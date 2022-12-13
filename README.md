@@ -1,4 +1,3 @@
-# cse210-04JJML
 The Kingdom Battle
 
 # Description:
